@@ -10,11 +10,17 @@
 광고 크롤링 위한 링크
 - [광고 크롤링](https://github.com/fooiff/app-ads.txt)
 
+
+
 각종 규정
-[개인정보처리방침 - 한글](https://fooiff.github.io/MHCompany.Privacy/)
 
-[개인정보처리방침 - 영어](https://fooiff.github.io/MHCompany.Privacy_en/)
+- [개인정보처리방침 - 한글](https://fooiff.github.io/MHCompany.Privacy/)
 
-[서비스이용약관 - 영어](https://fooiff.github.io/MHCompany.Service_en/)
 
-[서비스이용약관 - 한글](https://fooiff.github.io/MHCompany.Service/)
+- [개인정보처리방침 - 영어](https://fooiff.github.io/MHCompany.Privacy_en/)
+
+
+- [서비스이용약관 - 영어](https://fooiff.github.io/MHCompany.Service_en/)
+
+
+- [서비스이용약관 - 한글](https://fooiff.github.io/MHCompany.Service/)
