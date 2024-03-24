@@ -8,7 +8,8 @@
 - [플레이스토어](https://play.google.com/store/apps/dev?id=8290699567799906041)
 
 광고 크롤링 위한 링크
-- [광고 크롤링](https://github.com/fooiff/app-ads.txt)
+- [광고 크롤링](https://fooiff.github.io/app-ads.txt/)
+- 
 
 
 
