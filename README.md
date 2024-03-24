@@ -9,7 +9,6 @@
 
 광고 크롤링 위한 링크
 - [광고 크롤링](https://fooiff.github.io/app-ads.txt/)
-- 
 
 
 
