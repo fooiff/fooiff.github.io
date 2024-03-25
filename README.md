@@ -4,7 +4,7 @@
 
 이하는 각종 링크입니다.
 
-개발자 홈페이지 변경 -> https://mh-games.github.io/
+개발자 홈페이지 변경 -> [https://mh-games.github.io/](https://mh-games.github.io/)
 
 개발된 앱 목록 보기
 - [플레이스토어](https://play.google.com/store/apps/dev?id=8290699567799906041)
